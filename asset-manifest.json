@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/architect-website/static/css/main.4207e67e.css",
+    "main.js": "/architect-website/static/js/main.7ae04c45.js",
+    "static/js/453.9a4912f1.chunk.js": "/architect-website/static/js/453.9a4912f1.chunk.js",
+    "index.html": "/architect-website/index.html",
+    "main.4207e67e.css.map": "/architect-website/static/css/main.4207e67e.css.map",
+    "main.7ae04c45.js.map": "/architect-website/static/js/main.7ae04c45.js.map",
+    "453.9a4912f1.chunk.js.map": "/architect-website/static/js/453.9a4912f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4207e67e.css",
+    "static/js/main.7ae04c45.js"
+  ]
+}
